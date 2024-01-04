@@ -1,0 +1,5 @@
+git config --global http.proxy http://exam@192.168.10.4.808
+git config --global credential.helper wincred
+git config --global user.name "       "
+git config --global user.email "       "
+git config --global user.password "  add token of repo     "
